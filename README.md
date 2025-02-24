@@ -17,4 +17,5 @@ This portfolio showcases some of my recent work and projects. Feel free to explo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/your-project-name.git
+   git clone https://github.com/Harmanpreet20/project-name.git
+
