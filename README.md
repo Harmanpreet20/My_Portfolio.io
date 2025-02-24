@@ -1,4 +1,3 @@
-# My_Portfolio.io
 # Welcome to My Portfolio
 
 Hello! I'm **Harmanpreet Kaur**, a passionate **Web Developer** and **Mobile App Developer**. I specialize in **building responsive websites**, **full-stack web applications**, and **Android applications**. My goal is to create user-centric digital solutions using the latest technologies.
